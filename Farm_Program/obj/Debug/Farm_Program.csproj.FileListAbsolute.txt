@@ -1,0 +1,7 @@
+C:\Users\belik\Desktop\Valeriia\Farm_Program\bin\Debug\Farm_Program.exe.config
+C:\Users\belik\Desktop\Valeriia\Farm_Program\bin\Debug\Farm_Program.exe
+C:\Users\belik\Desktop\Valeriia\Farm_Program\bin\Debug\Farm_Program.pdb
+C:\Users\belik\Desktop\Valeriia\Farm_Program\obj\Debug\Farm_Program.csproj.AssemblyReference.cache
+C:\Users\belik\Desktop\Valeriia\Farm_Program\obj\Debug\Farm_Program.csproj.CoreCompileInputs.cache
+C:\Users\belik\Desktop\Valeriia\Farm_Program\obj\Debug\Farm_Program.exe
+C:\Users\belik\Desktop\Valeriia\Farm_Program\obj\Debug\Farm_Program.pdb
